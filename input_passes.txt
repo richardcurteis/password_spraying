@@ -28,3 +28,4 @@ Wednesday
 Thursday
 Friday
 Covid
+Covid19
