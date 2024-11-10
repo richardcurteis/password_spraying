@@ -22,6 +22,8 @@ P@ssword
 Welcome
 Changeme
 ChangeMe
+Changethis
+ChangeThis
 Monday
 Tuesday
 Wednesday
@@ -29,3 +31,4 @@ Thursday
 Friday
 Covid
 Covid19
+Admin
